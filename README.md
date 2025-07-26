@@ -39,10 +39,8 @@
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
   <br><br>
   <br>
-  
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunnyboy37)](https://solved.ac/sunnyboy37)
-  <br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkqehenr7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkqehenr7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunnyboy37)](https://solved.ac/sunnyboy37)
+   
 </div>
