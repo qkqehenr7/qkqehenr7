@@ -1,4 +1,4 @@
-<p align="center">
+<div align="center">
   <img src="https://github.com/user-attachments/assets/e7586ab9-996e-479c-817b-38aeabf39626" style="width:30%;">
   <br><br>
   <samp>
@@ -11,9 +11,8 @@
     💻 Interest in Backend Dev | Data Analysis | Machine Learning
     <br><br>
   </samp>
-</p>
+  <br>
 
-<p align="center">
   <img src="https://img.shields.io/badge/Java-E05126?style=flat-square&logo=openjdk&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Spring Boot%20%7C%20Security-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> 
@@ -38,4 +37,12 @@
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM%20Stack-Gemini_&_LangChain4j-4A90E2?style=flat-square&logo=google&logoColor=white"/> 
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white"/>
-</p>
+  <br><br>
+  <br>
+  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunnyboy37)](https://solved.ac/sunnyboy37)
+  <br><br>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkqehenr7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+</div>
